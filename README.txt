@@ -11,3 +11,13 @@ How to run my code for assignment one.
 5. There are two notebooks, beans.ipynb and cars_eda.ipynb. Both notebooks implement the five machine learning algorithms but on different classification problems.
 
 6. Please reach out to my Georgia Tech email if there are any issues. 
+
+
+Directory structure:
+
+SupervisedLearning/
+    |   data/
+    |   |   car.data
+    |   |   Dry_Bean_Dataset.xlsx
+    |   cars_eda.ipynb
+    |   beans.ipynb
